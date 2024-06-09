@@ -4,19 +4,23 @@
 * [Introduction](introduction.md)
 * [Contents](contents.md)
 
-## Setting up your local environment
+## 1. Setting up your local environment
 
-* [Introduction](setting-up-your-local-environment/introduction.md)
-* [What is a local development environment?](setting-up-your-local-environment/what-is-a-local-development-environment.md)
-* [Benefits of Using a Local Development Environment](setting-up-your-local-environment/benefits-of-using-a-local-development-environment.md)
+* [Introduction](1.-setting-up-your-local-environment/introduction.md)
+* [What is a local development environment?](1.-setting-up-your-local-environment/what-is-a-local-development-environment.md)
+* [Benefits of Using a Local Development Environment](1.-setting-up-your-local-environment/benefits-of-using-a-local-development-environment.md)
 
-## Choosing the right tools
+## 2. Choosing the right tools
 
-* [Overview of Common Tools](choosing-the-right-tools/overview-of-common-tools.md)
-* [Criteria for Choosing Tools Based on Your Needs](choosing-the-right-tools/criteria-for-choosing-tools-based-on-your-needs.md)
+* [Overview of Common Tools](2.-choosing-the-right-tools/overview-of-common-tools.md)
+* [Criteria for Choosing Tools Based on Your Needs](2.-choosing-the-right-tools/criteria-for-choosing-tools-based-on-your-needs.md)
 
-## Installing basic tools
+## 3. Installing basic tools
 
-* [Installing a text editor](installing-basic-tools/installing-a-text-editor.md)
-* [Installing a terminal emulator](installing-basic-tools/installing-a-terminal-emulator.md)
-* [Installing an IDE](installing-basic-tools/installing-an-ide.md)
+* [Installing a text editor](3.-installing-basic-tools/installing-a-text-editor.md)
+* [Installing a terminal emulator](3.-installing-basic-tools/installing-a-terminal-emulator.md)
+* [Installing an IDE](3.-installing-basic-tools/installing-an-ide.md)
+
+## 4. Configuring your development environment
+
+* [Page 1](4.-configuring-your-development-environment/page-1.md)
